@@ -1,0 +1,4 @@
+diffusers
+transformers
+streamlit
+Pillow

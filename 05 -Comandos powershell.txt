@@ -1,0 +1,6 @@
+# Comandos powershell - Visual Studio Code
+cd Intento2
+docker build -t parcial2-cv:latest .
+docker run -d --name parcial2-container -p 8000:8000 parcial2-cv
+
+
